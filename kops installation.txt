@@ -110,5 +110,6 @@ it above command  is not working
 then execute
 ssh -i ~/.ssh/id_rsa admin@<IPOrDNS>
 #or sample
-#ssh -i ~/.ssh/id_rsa ubuntu@api.class.k8s.local
+#ssh -i ~/.ssh/id_rsa ubuntu@18.132.201.39
+
   
