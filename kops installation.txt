@@ -13,6 +13,9 @@ Setup Kubernetes (K8s) Cluster on AWS Using KOPS
 
  sudo apt update -y
  sudo apt install unzip wget -y
+ sudo apt install awscli
+ 
+ # OR
  sudo curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
  sudo apt install unzip python -y
  sudo unzip awscli-bundle.zip
