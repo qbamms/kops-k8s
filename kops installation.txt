@@ -64,7 +64,7 @@ You Created. --> Save.
     vi .bashrc
 	
 	# Give Unique Name And S3 Bucket which you created.
-	export NAME=s3://class.k8.local
+	export NAME=scholero.com
 	export KOPS_STATE_STORE=s3://kubernateclass29
  
     source .bashrc
