@@ -114,5 +114,5 @@ then execute
 ssh -i ~/.ssh/id_rsa admin@<IPOrDNS>
 #or sample
 #ssh -i ~/.ssh/id_rsa ubuntu@18.132.201.39
-
+ssh -i ~/.ssh/id_rsa admin@api.scholero.com
   
